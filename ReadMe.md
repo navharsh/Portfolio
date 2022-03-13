@@ -5,7 +5,8 @@ I am currently trying to make changes to it acc to my needs.
 
 ![site](https://user-images.githubusercontent.com/83577819/158066355-ade3e7c9-4b1d-4259-b9c1-663a57acc9b6.jpeg)
 
-
+#### Site's Online Link:- [**navharsh.in**](https://navharsh.in)
+--- 
 ## Used here:
 + **HTML5** for markup
 + Pure **CSS3** for styling 
@@ -15,8 +16,3 @@ I am currently trying to make changes to it acc to my needs.
 + **Unsplash** for Images 
 
 ***
-Site's [**online link**](https://navharsh.in)
-
-You can add more things to make it even cooler! The comments in the code will help you navigate through it.
-Feel free to contribute to the code _but please do not steal the code and post it everywhere as your work and if you want to use the template don't forget to give the credit._  Have a nice day! :D 
-
