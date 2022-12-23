@@ -5,7 +5,7 @@ I am currently trying to make changes to it acc to my needs.
 
 ![site](https://user-images.githubusercontent.com/83577819/158066355-ade3e7c9-4b1d-4259-b9c1-663a57acc9b6.jpeg)
 
-#### Site's Online Link:- [**navharsh.in**](https://navharsh.in)
+#### Site's Online Link:- [**navharsh.in**](https://portfolio.navharsh.in)
 --- 
 ## Used here:
 + **HTML5** for markup
